@@ -1,3 +1,27 @@
+## driver_common (jade) - 1.6.8-0
+
+The packages in the `driver_common` repository were released into the `jade` distro by running `/usr/bin/bloom-release driver_common --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 00:26:47 -0000`
+
+These packages were released:
+- `driver_base`
+- `driver_common`
+- `timestamp_tools`
+
+Version of package(s) in repository `driver_common`:
+- upstream repository: https://github.com/ros-drivers/driver_common.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.6.8-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## driver_common (indigo) - 1.6.8-2
 
 The packages in the `driver_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release driver_common -t indigo -r indigo` on `Mon, 16 Jun 2014 21:35:49 -0000`
