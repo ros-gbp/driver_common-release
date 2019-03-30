@@ -1,3 +1,29 @@
+## driver_common (lunar) - 1.6.8-0
+
+The packages in the `driver_common` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar driver_common` on `Sat, 30 Mar 2019 23:32:40 -0000`
+
+These packages were released:
+- `driver_base`
+- `driver_common`
+- `timestamp_tools`
+
+Version of package(s) in repository `driver_common`:
+
+- upstream repository: https://github.com/ros-drivers/driver_common.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.6.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.11`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.3`
+- vcstools version: `0.1.40`
+
+
 ## driver_common (kinetic) - 1.6.8-0
 
 The packages in the `driver_common` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release driver_common --track kinetic --rosdistro kinetic --new-track` on `Tue, 17 Apr 2018 20:49:57 -0000`
