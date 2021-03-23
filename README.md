@@ -1,3 +1,29 @@
+## driver_common (noetic) - 1.6.9-1
+
+The packages in the `driver_common` repository were released into the `noetic` distro by running `/usr/bin/bloom-release driver_common --rosdistro noetic --track noetic` on `Tue, 23 Mar 2021 06:18:17 -0000`
+
+These packages were released:
+- `driver_base`
+- `driver_common`
+- `timestamp_tools`
+
+Version of package(s) in repository `driver_common`:
+
+- upstream repository: https://github.com/ros-drivers/driver_common.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.6.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.2`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## driver_common (melodic) - 1.6.8-0
 
 The packages in the `driver_common` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic driver_common` on `Sat, 30 Mar 2019 23:38:27 -0000`
