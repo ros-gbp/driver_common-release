@@ -1,0 +1,13 @@
+Source: ros-noetic-timestamp-tools
+Section: misc
+Priority: optional
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-roscpp, ros-noetic-roslib
+Homepage: http://www.ros.org/wiki/timestamp_tools
+Standards-Version: 3.9.2
+
+Package: ros-noetic-timestamp-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-roscpp, ros-noetic-roslib
+Description: This package is currently for internal use only.
+ Its API may change without warning in the future. This package is deprecated.
